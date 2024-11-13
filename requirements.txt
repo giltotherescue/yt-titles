@@ -1,0 +1,5 @@
+pandas
+pinecone-client
+openai
+python-dotenv
+numpy 
